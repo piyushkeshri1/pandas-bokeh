@@ -2,8 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/Pandas-Bokeh.html",
-      "/posts/welcome.html"
+      "/posts/Pandas-Bokeh.html"
     ]
   }
 ]
