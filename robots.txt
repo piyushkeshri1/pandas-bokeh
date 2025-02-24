@@ -1,1 +1,1 @@
-Sitemap: https://nipunbatra.github.io/quarto-template/sitemap.xml
+Sitemap: https://piyushkeshri1.github.io/pandas-bokeh/sitemap.xml
