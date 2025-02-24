@@ -1,5 +1,3 @@
 ---
-title: Quarto Template
+title: Pandas-Bokeh
 ---
-
-Quarto template Text!
